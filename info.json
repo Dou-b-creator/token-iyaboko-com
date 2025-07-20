@@ -1,0 +1,17 @@
+{
+    "name": "Iyamege",
+    "symbol": "MEGE",
+    "decimals": 18,
+    "chainId": 137,
+    "address": "0xCc91315C409c852270D4070445f82747295cC5F9",
+    "logoURI": "https://iyaboko.com/token/logo.png",
+    "website": "https://www.iyaboko.com/token",
+    "description": "Iyamege (MEGE) is the Totaphysical currency powering the Scroll Civilization: staking, DAO voting, soulbound scholar NFTs, and TotaphysicsGPT.",
+    "tags": [
+        "governance",
+        "ai",
+        "soulbound",
+        "scroll",
+        "token"
+    ]
+}
